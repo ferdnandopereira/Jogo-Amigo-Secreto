@@ -37,7 +37,7 @@ Sistema simples e intuitivo para organizar sorteios de amigo secreto entre amigo
 - Clique em **Sortear amigo** para gerar os pares e exibir o resultado.
 - Clone este repositório:
 
-`https://github.com/ferdnandopereira/Jogo-Amigo-Secreto`
+`git clone https://github.com/ferdnandopereira/Jogo-Amigo-Secreto.git`
 
 
 
